@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "p@p.com",
+      "password": "$2a$10$ur4u8TNNLZf677CFNHRN/ezFI9f8P3qQmXg9.OvABcS0RRsCRtFjq",
+      "firstName": "Paul",
+      "lastName": "Negoescu",
+      "id": 1
+    }
+  ],
+  "posts": []
+}
